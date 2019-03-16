@@ -1,0 +1,148 @@
+{
+  "base": [{
+    "competenza": 2,
+    "privilegi": ["Terre conosciute: al primo livello sceglie un numero di regioni pari a 3 + modificatore Saggezza. Quando esegue un prova
+        Intelligenza o Saggezza relativa alla regione il bonus competenza viene raddoppiato. Quando viaggia in una regione conosciuta ottiene i seguenti vantaggi:
+          - CD test personali negli eventi di viaggio si abbassa di 2.
+          - Se tutto il viaggio passa per regioni conosciute il Pericolo di viaggio si abbassa di 2.
+          - Vantaggio sui tiri contro la corruzione di terre degradate che conosce.
+          - In circostanze normali non puo smarrirsi.
+          - In ogni terra conosciuta sa di almeno un luogo dove puo effettuare un riposo lungo.
+          - Vantaggio in furtivita e puo muoversi furtivamente alla velocita normale.
+          - Quando segue tracce scopre in automatico il numero, la taglia e da quando tempo sono passati.",
+        "Usanze della landa: vantaggio Sopravvivenza per seguire tracce nella natura selvaggia. Se svolge la funzione di Guida puo coprire tutti i ruoli se mancanti."]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Stile di combattimento: sceglie una volta uno dei seguenti stili di combattimento;
+        Combattere con due armi: aggiunge il modificatore caratteristica ai danni della seconda arma.
+        Difesa: se indossa un armatura ottiene un +1 CA bonus.
+        Duellare: se impugna un arma da mischia a una mano e non impugna altre armi ottiene +2 ai tiri per i danni.
+        Tiro: +2 ai tiri per colpire con un arma da distanza",
+      "Vigilanza naturale: se si trova nella natura selvaggia il bonus competenza di Percezione viene raddoppiato."]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Archetipo del viandante",
+      "Dicerie della terra: se appoggia la testa a terra puo ottenere informazioni su una preda o un luogo se supera una prova Sopravvivenza con CD 15.
+        Se ottiene totale 25 o piu comprende tante informazioni da sembrare miracoloso"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Attacco extra: puo attaccare due volte quando esegue un azione Attacco anziche una"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Terre conosciute: sceglie nuove regioni pari a 1 + modificatore Saggezza (minimo 1)",
+      "Usanze della landa: quando combatte il primo round di attacchi hanno vantaggio"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Archetipo del viandante"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale",
+      "Resistenza al veleno: resistenza a tutti i danni da veleno"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Passi senza tracce: non lascia piu tracce seguibili con i metodi normali e puo coprire le tracce di un numero di compagni pari al modificatore Saggezza"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Celarsi in piena vista: spende un minuto per mimetizzarsi su una superficie solida grande almeno quanto lui ottenendo
+        +10 in Furtivita finche rimane immobile",
+      "Terre conosciute: sceglie nuove regioni pari a 1 + modificatore Saggezza (minimo 1)"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Archetipo viandante"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Inesauribile: le penalita da indebolimento sono sempre piu basse di 2 livelli"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Usanze della landa: se si trova nella natura selvaggia non puo essere sorpreso o vittima di un imboscata",
+      "Svanire: puo usare come azione bonus Nascondersi nel suo turno"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Archetipo viandante"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Barriera anti degradazione: -1 ai punti ombra giornalieri acquisiti nelle aree degradate"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Segreti nel vento: una volta per riposo lungo puo ottenere notizie su nemici o amici lontani passando una prova Perspicacia con CD 15.
+      Le informazioni ottenute sull oggetto della ricerca sono: dove si trova, in che direzione prosegue, condizioni generali"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Avversario letale: causa automaticamente il danno massimo dei dadi nei suoi attacchi"]
+  }],
+  "CacciatoreBestie": [{
+    "livello": 3,
+    "privilegi": ["Battitore: raddoppia il bonus competenza Sopravvivenza per seguire le tracce e puo usare Sopravvivenza invece che Indagare
+        se le ipotesi si basano su impronte o piste fisiche"]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Tiro rapido: se impugna un arma a distanza puo effettuare un attacco bonus prima del tiro per iniziativa anche se viene sorpreso"]
+  },
+  {
+    "livello": 11,
+    "privilegi": ["Maestro cacciatore: sceglie una delle seguenti capacita:
+        Persecuzione: se spende un giorno a inseguire un bersaglio prima di attaccarlo il nemico subisce 1 livello di indebolimento,
+          se spende 3 giorni subisce un altro livello di Indebolimento (totale +2), se trascorre una settimana un terzo livello Indebolimento (totale +3).
+        Raffica: una volta per riposo breve o lungo puo effettuare un attacco a distanza contro un numero qualsiasi di nemici entro 3 metri da un punto a gittata e visibile se ha abbastanza munizioni.
+        Benedizione del cacciatore: una volta per riposo lungo puo recupera un dado vita quando abbatte una creatura a cui sta dando la caccia."]
+  },
+  {
+    "livello": 15,
+    "privilegi": ["Maestro cacciatore: sceglie una nuova capacita diversa dalla precedente"]
+  }],
+  "CacciatoreOmbre": [{
+    "livello": 3,
+    "privilegi": ["Avversario del nemico: +2 ai danni contro i servi del nemico (Orchi, Goblin, Ragni, Troll, Uomini malvagi e creature che servono volontariamente l'oscuro signore).
+        Ottiene competenza nella sapienza dell ombra."]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Vendetta: il viandante puo effetture un attacco come reazione quando un servo del nemico lo colpisce con un attacco"]
+  },
+  {
+    "livello": 11,
+    "privilegi": ["Uccisore di ombre: sceglie uno tra i seguenti privilegi;
+        Nemesi: una volta per turno quando colpisce un servo del nemico puo infliggere 1d8 danni radiosi extra. Se usa una torcia contro non morti o altri
+          spiriti maligni infigge 1d12 danni radiosi anziche i danni normali.
+        Attacco turbinante: puo usare un azione per effettuare un attacco in mischia contro un qualsiasi numero di creature entro 1,5 metri da lui (un tiro per colpire per ciascun bersaglio)"]
+  },
+  {
+    "livello": 15,
+    "privilegi": ["Difesa contro l Ombra: sceglie uno tra i seguenti privilegi;
+        Baluardo contro la marea: quando un nemico manca il viandante questo puo usare la sua reazione per costringerlo a ripetere lo stesso attacco contro una creatura diversa da se stessa scelta dal viandante.
+        Volonta incontrollabile: non puo essere intimorito o spaventato e diviene immune a ogni fonte di paura soprannaturale.
+        Schivata prodigiosa: puo usare la reazione per dimezzare i danni che subirebbe da un attacco se riesce a vederlo"]
+  }]
+}

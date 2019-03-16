@@ -1,0 +1,179 @@
+{
+  "base": [{
+    "competenza": 2,
+    "privilegi": ["Mani del guaritore: riceve un dado Guarigione (1d8) per livello da studioso che si rigenerano ogni riposo breve. Puo spendere
+      un dado guarigione per curare una creatura a contatto del risultato del dado + modificatore Saggezza. Se lo studioso accudisce
+      la creatura per almeno 10 minuti puo moltiplicare il risultato del dado per il bonus competenza e poi aggiungere il modificatore Saggezza.
+      In alternativa puo spendere un dado per curare un veleno o condizione che scompare dopo un riposo lungo.",
+    "Notizie da lontato: ad ogni inizio di fase di avventura o dopo aver passato del tempo in un rifugio il Master informa lo studioso su
+    due o tre eventi importanti accaduti. Se desidera maggior chiarezza puo effettuare una prova caratteristica con un +5 a una di queste prove",
+  "Lingue di molti popoli: puo intrattenere una coversazione semplice in qualunque linguaggio di Uomini o Elfi"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["La via della saggezza: puo scegliere Medicina e una competenza abilita o Medicina e competenza nel kit da erborista.
+      Il bonus competenza raddoppia per queste prove."]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Specializzazione"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Ragnatela di inganni: puo effettuare una prova Intuizione con CD 15 + modificatore Saggezza del bersaglio. Se passa ha vantaggio
+      in qualunque prova abilita durante la conversazione"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Ombra del passato: se lo studioso racconta a un altro pg una storia pertinente al suo popolo quel pg ottiene un dado Ispirazione Dotta (d6)
+      che puo spendere per aggiungere il risultato a qualsiasi tiro. una volta per riposo lungo"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Specializzazione"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Medico: Mani del guaritore puo ora curare da tutte le condizioni o rimuovere un livello di indebolimento"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Specializzazione"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Sentieri nascosti: puo concede vantaggio a un compagno in qualsiasi prova collegata ai ruoli del viaggio. una sola volta per fase di avventura"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Speranza imprevedibile: una volta per fase di avventura puo descrivere azioni compiute in precedenza ignote ai compagni
+      ed effettuare una prova caratteristica adatta per vedere il grado di successo dei suoi preparativi. Il Master decide se accettare o meno
+      la proposta se irragionevole"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Specializzazione"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Usanze dei Saggi: una volta per fase di avventura puo spendere Ispirazione per riutilizzare un privilegio che richiederebbe un riposo lungo"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Parole non pronunciate: puo conversare da mente a mente con altri studiosi di alto livello o persone potenti comprendendo le sue parole
+      ma non potendo rispondere. Una volta per riposo lungo puo inviare a lunghe distanze brevi messaggi"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Specializzazione"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Grande tra i saggi: la conoscenza in un particolare argomento diventa assoluta e gli altri Saggi ne riconoscono la sua autorevolezza.
+      Sceglie una sola abilita tra quelle di Intelligenza e Saggezza e passa in automatico qualsiasi prova. Spendendo ispirazione puo imparare qualcosa
+      di compretamente estraneo per intuizione. una volta per riposo lungo."]
+  }],
+  "MaestroGuaritore": [{
+    "livello": 3,
+    "privilegi": ["Guarigione migliorata: Mani del guaritore utilizza 2d8 anziche 1d8",
+      "Sapienza del guaritore: lo studioso effettua una delle seguenti scoperte e puo sostituire una scoperta precedente con una diversa;
+        Erbe curative: una creatura ha bisogno solo di un riposo breve per curarsi da una malattia controllata dallo studioso e puo usare i seguenti effetti
+          per le erbe al posto di quelli standard;
+            Athelas - rimuove un livello di indebolimento per un tot di creature pari al livello dello studioso.
+            Botton oro: guarisce qualsiasi danno da veleno se applicato sulla ferita.
+            Erbastrega: cura un punto Ombra. massimo un punto Ombra curato ogni anno.
+            Fiori di ninfea: la ninfea bianca mangiata come biscotto permette di considerare un riposo breve come lungo. la ninfea rossa +2 ai tiri per
+              colpire e ai danni per un ora ma infligge una rabbia incontrollabile e un punto Ombra.
+              Mazzasorda: permette di rimanere sveglio e vigile per tre giorni di fila. poi guadagna 3 livelli di indebolimento.
+              Ombrarovo: vantaggio alle prove Furtivita per tre giorni.
+        Canto risanante del guaritore: durante un riposo breve lo studioso puo cantare per un numero di alleati pari al suo livello da studioso che recuperano
+          pf pari a un loro dado vita + modificatore Costituzione senza spenderlo.
+        Amico di tutti: vantaggio a tutti i tiri per convincere una persona a concedergli cibo e riparo per una notte. In combattimento gli avversari intelligenti
+          che non sono servi dell ombra non lo attaccheranno se non costretti. Tuttavia il guaritore ha giurato di aiutare tutti quindi trascurare le ferite
+          di qualsiasi potenziale paziente conta come Misfatto.
+        Ventre molle: Se lo studioso usa un azione per esaminare un bersaglio ottiene un dado aggiuntivo per i danni per un singolo attacco da parte sua
+          o di un suo alleato che colpisce quella creatura. 1d6 al 3, 1d8 al 6, 1d10 al 12 e 1d12 al 20.
+        Sollievo dai lunghi fardelli: se lo studioso usa un riposo lungo senza fare altro che riposarsi e parlare con una creatura consenziente puo rimuovere
+          un punto Ombra. Due punti ombra a livello 10 e tre a livello 20. Non puo usare questa abilita su se stesso o su un altro Maestro Guaritore.
+        Le armi del nemico: ottiene competenza nella sapienza dell ombra e puo curare veleni e ferite inflitte dagli incantesimi del Nemico"]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Sapienza del guaritore"]
+  },
+  {
+    "livello": 10,
+    "privilegi": ["Sapienza del guaritore"]
+  },
+  {
+    "livello": 14,
+    "privilegi": ["Dimora del guaritore: se risiede nello stesso luogo per piu di un anno questo posto diventa un Rifugio e smette di esserlo dopo un mese
+        dalla pertenza del guaritore.",
+      "Sapienza del guaritore"]
+  },
+  {
+    "livello": 18,
+    "privilegi": ["Visibile e invisibile: vantaggio a tutte le prove di resistenza dalla corruzione e puo vedere spiriti e creature invisibili",
+      "Sapienza del guaritore"]
+  }],
+  "MaestroStudioso": [{
+    "livello": 3,
+    "privilegi": ["Competenze: ottiene una nuova competenza in un abilita tra quelle di Intelligenza o Saggezza a scelta",
+      "Sapienza segreta: scopre un segreto tra i seguenti;
+        Sapienza antica: ottiene la competenza in storia e puo effettuare prove in Storia senza penalita su questioni antiche.
+        Bestie e uccelli: sceglie una razza animale e puo effettuare prove di Inganno, Intuizione, Intimidire e Persuasione sugli animali di quella razza
+          per convincerli a eseguire semplici ordini o fornire informazioni. Puo riprendere questo segreto una seconda volta ottenendo vantaggio in tutte le
+          prove di Carisma relative a tutte le creature dello stesso tipo della razza scelta (gufi -> uccelli. conigli -> mammiferi piccola taglia).
+        Conoscenza oscura: ottiene competenza nella sapienza dell ombra, impara la lingua nera di Mordor e non ha penalita nelle prove caratteristica relative.
+          Acquisisce in automatico 4 punti ombra quando sceglie questo segreto.
+        Mondo naturale: prova Natura con CD 15 permette di scoprire se una zona viene considerata contaminata e cosa lo ha provocato. Vantaggio sulla corruzione
+          in una zona degratata riconosciuta. ottiene competenza in Natura.
+        Rune: vantaggio Sapienza nel reperire informazioni da testi enigmatici e capisce dove sono situate le rune naniche ma non puo leggerli senza la luce giusta.
+        Opere dei giorni antichi: puo identificare le proprieta dei manufatti meravigliosi con una prova Indagare CD 15. ottiene competenza in tre strumenti da artigiano a scelta."]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Sapienza segreta"]
+  },
+  {
+    "livello": 10,
+    "privilegi": ["Sapienza segreta"]
+  },
+  {
+    "livello": 14,
+    "privilegi": ["Conoscenza approfondita: una volta per riposo lungo in un rifugio quando incontra una persona, oggetto o localita puo fare al Master tre domande oltre che disporre
+        di vantaggio nelle successive prove che riguardano il soggetto per tutta la fase di avventura",
+      "Sapienza segreta"]
+  },
+  {
+    "livello": 18,
+    "privilegi": ["Parole di comando: una volta per riposo breve puo pronunciare una parola di comando con CD definita dal Master (minimo 20) tra i seguenti:
+        Conoscenza oscura: comandare a uno spettro di tornare nella sua tomba.
+        Mondo natulare: ordinare a un mucchio di legna di ardere e accendersi.
+        Opere dei giorni antichi: strappare il controllo di un palantir al volere del signore oscuro.
+        Rune: comandare alle lettere lunari di svelarsi anche alla luce del giorno.
+        Sapienza antica: ordinare a una porta costruita dagli elfi di aprirsi immediatamente.
+        Uccelli e bestie: costringere un feroce lupo a tornare nella sua tana.",
+      "Sapienza segreta"]
+  }]
+}

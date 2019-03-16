@@ -1,0 +1,179 @@
+{
+  "base": [{
+    "competenza": 2,
+    "privilegi": ["Stile di Combattimento: il guerriero sceglie un tra i seguenti stili e non puo prendere due volte lo stesso:
+      Combattere con Armi possenti; se usa un arma a Due Mani o Versatile puo ritirare il dado per i danni una volta se ottiene 1 o 2.
+      Combattere con due armi; quando combatte con due armi puo aggiungere il modificatore caratteristiche ai danni del secondo attacco.
+      Difesa; +1 alla CA.
+      Duellare; se ha un arma da mischia in una mano e niente nell altra ottiene +2 ai tiri per i danni.
+      Protezione; da svantaggio a un nemico che tenta di colpire un alleato se il guerriero si trova entro 1.5m da lui.
+      Tiro; +2 ai tiri per colpire con armi da distanza",
+      "Recuperare Energie: ogni riposo breve o lungo il guerriero puo usare un azione bonus per recuperare
+      pf pari a 1d0 + il suo livello da guerriero"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Azione Impetuosa: ogni riposo breve o lungo il guerriero puo usare un azione aggiuntiva nel suo turno oppure solo
+      se ha ispirazione puo far usare nello stesso turno la sua azione aggiuntiva a un alleato"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Archetipo Marziale"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Attacco Extra: puo attaccare due volte quando esegue un azione di Attacco anziche una"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Archetipo Marziale"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Difensore dei caduti: se un attacco fa scendere un alleato sotto 1/5 dei suoi pf massimi il guerriero
+      puo fare uno scatto come azione bonus per portarsi vicino all alleato"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Archetipo Marziale"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Attacco Extra: puo attaccare tre volte quando esegue un azione di Attacco anziche una"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Indomito: ogni riposo lungo il guerriero puo ritirare un tiro salvezza che ha fallito e usare il nuovo risultato"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Archetipo Marziale",
+      "Indomito: due utilizzi per riposo lungo"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Azione impetuosa: due utilizzi ma soltanto una volta per turno",
+      "Indomito: tre utilizzi per riposo lungo"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Archetipo Marziale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Attacco Extra: puo attaccare quattro volte quando esegue un azione di Attacco anziche una"]
+  }],
+  "Campione": [{
+    "livello": 3,
+    "privilegi": ["Difensore per giuramento: il guerriero ogni riposo lungo puo nominare un suo Protetto che puo essere una
+      persona o un luogo (che viene considerato Rifugio per il guerriero). Quando il guerriero si trova vicino al Protetto
+      ottine pf temporanei pari al bonus Saggezza + i livello da guerriero. Il Protetto puo assegnare una missione al guerriero
+      e il suo completamento diventa il Protetto del guerriero. Il maestro del sapere puo far perdere i pf temporanei se
+      valuta che il guerriero si distrae o astiene dalla missione assegnatagli",
+      "Marchio Onore: il guerriero puo scegliere e guadagnare uno sei seguenti marchi:
+        Ricompensa; ottiene un Cimelio Culturale della sua cultura dal suo signore. Puo essere acquisito piu volte.
+        Ispirazione; una volta per riposo lungo puo utilizzare Ispirazione del suo Protetto.
+        Storie del Menestrello; dopo aver completato una missione puo dichiarare che le sue gesta sono narrate in Canzoni
+        migliorando di un grado gli atteggiamenti nei suoi confronti negli incontri sociali. Puo essere acquisito piu volte
+        aumentando ancora il grado. Questo non migliora per una cultura se la missione relativa ha causato loro dei danni (anche solo sociali).
+        Ufficiale; ogni riposo breve o lungo il guerriero ottiene quattro dadi Comando (d6) che puo offrire ai suoi alleati entro 18m
+        da tirare e sommare in qualunque proprio tiro. chi usa il dado Comando deve essere stato presentato al signore del guerriero
+        ed essere stato accettato come alleato della causa.
+        Colpo del Campione; puo spendere Ispirazione per aggiungere 3d6 ai danni del suo attacco"]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Marchio Onore: prende un nuovo marchio"]
+  },
+  {
+    "livello": 10,
+    "privilegi": ["Marchio Onore: prende un nuovo marchio"]
+  },
+  {
+    "livello": 15,
+    "privilegi": ["Marchio Onore: prende un nuovo marchio",
+      "Protettore rinomato: se il guerriero si trova entro 9m dal suo protetto diventa immune alle condizioni Affascinato,
+      Spaventato e Stordito. Inoltre non puo essere reso privo di sensi o incapacitato a meno che abbia fallito tre tiri salvezza
+      contro la morte (e a questo punto muore)"]
+  },
+  {
+    "livello": 18,
+    "privilegi": ["Marchio Onore: prende un nuovo marchio",
+      "Sacrificio: se si trova entro 9m puo lanciarsi sulla traiettoria e subire i danni o la condizione che avrebbero colpito il Protetto"]
+  }],
+  "Maestro Armi": [{
+    "livello": 3,
+    "privilegi": ["Stile focalizzato: lo stile di combattimento scelto al livello 1 ottiene capacità aggiuntive.
+        Combattere con armi possenti: vantaggio con arma a due mani o versatile se combatte con una creatura di taglia inferiore.
+        Combattere con due armi: rinuncia ad attaccare con una delle due armi per imporre svantaggio al prossimo tiro per colpirlo.
+        Difesa: ingora lo svantaggio per le prove Furtività a causa delle armature.
+        Duellare: può scambiare il bonus +2 ai danni con un bonus +2 per colpire.
+        Protezione: può eseguire come azione bonus un attacco con scudo infliggendo 1d6 + modificatore Forza se colpisce.
+        Tiro: può spendere un azione per prendere la mira. se attacca con l'arco il turno successivo a +2 per colpire e
+          non subisce svantaggio su attacchi a lunga gittata.",
+      "Maestrie: il guerriero raggiunge la padronanza in una specifica arma scegliendo uno tra i seguenti bonus.
+        Diritto di nascita: il guerriero ha acquisito un arma pregevole e le da un nome. Quando la acquisisce la prima volta ha vantaggio
+          in qualsiasi prova Intimidire o Persuasione, a livello 3 bonus +1 a tutti i tiri per colpire e ai danni,
+          a livello 7, 10 e 15 acquisisce una delle seguenti qualita:
+            Bilanciata: può trasferire il bonus per colpire della sua arma alla sua CA per un turno.
+            Famigerata: il nome della sua arma suscita terrore in un gruppo di nemici scelto dal giocatore (Dunlandiani, Haradrim, Carrieri, Orchi, Troll, Ragni o simile).
+              Quando infligge un critico con la sua arma tutte le creature del gruppo scelto devono superare un tiro salvezza su Saggezza con
+              CD 8 + bonus competenza + modificatore Forza o Destrezza a scelta del guerriero o rimangono Spaventate per il resto della battaglia.
+            Feroce: bonus +2 a tutti i tiri per colpire e ai danni anziche il +1.
+            Minacciosa: infligge un colpo critico con risultato naturale di 19 o 20.
+            Spietata: con un risultato naturale di 20 infligge +7 danni.
+            Tenace: non può essere spezzata per caso o in seguito ad attacchi nemici.
+        Forza di volonta: ogni danno inflitto si considera radioso.
+        Membro di una gilda: il guerriero viene approvato da una organizzazione quindi la base della stessa diventa un Rifugio per il guerriero
+          e fornisce sostegno attraverso cibo, riparo e fonti di sapere (non scendono in guerra al suo fianco).
+        Letale: ai danni si può sommare il valore più alto tra il bonus competenza o il modificatore caratteristica. (almeno al 10 per scegliere questa maestria).
+        Antichi avversari: il guerriero sceglie un nemico giurato (meglio se imbattuto di persona o famoso contro la propria cultura) e ottiene vantaggio
+          nelle prove Indagare, Intimidire e Percezione che lo riguardano. Ottiene vantaggio nei tiri per i danni contro il nemico giurato.
+        Sfida del maestro armi: il guerriero nomina un alleato presente nella battaglia. Fin quando il numero di nemici uccisi resta entro una differenza di 3
+          entrambi ottengono un bonus +1 ai tiri per colpire. Non può essere utilizzata più di una volta per riposo lungo."]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Maestria"]
+  },
+  {
+    "livello": 10,
+    "privilegi": ["Maestria"]
+  },
+  {
+    "livello": 15,
+    "privilegi": ["Maestria"]
+  },
+  {
+    "livello": 18,
+    "privilegi": ["Maestria"]
+  }]
+}

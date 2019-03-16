@@ -1,0 +1,162 @@
+{
+  "base": [{
+    "competenza": 2,
+    "privilegi": ["Dono del guardiano: 1d6. Un azione bonus per ispirare un alleato gli fornisce un dado Dono che puo essere sommato una volta
+      e poi essere consumato decidendo se utilizzarlo dopo aver tirato il d20.
+      Ogni alleato puo avere massimo un dado Dono per volta per massimo 10 minuti.
+      Il guardiano puo fornire tanti dadi Dono quanti il suo modificatore di Carisma e recuperare i dadi spesi dopo un riposo lungo",
+      "Sempiterza Vigilanza: Se arrivato in un luogo passa qualche ora e esplorare il luogo e parlare con gli abitanti puo effettuare una
+      prova su Indagare con CD 12. se passa ottiene molte informazioni sugli ultimi avvenimenti, problemi, nomi e aspetto delle figure
+      piu importanti. Se fallisce ne ottiene solo alcune mischiate ad altre false."]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Factotum: aggiunge meta del bonus competenza per difetto a ogni prova caratteristica che non abbia gia competenza",
+      "Racconti del Bivacco: durante un riposo breve il guardiano racconta delle storie che aiutano gli alleati a riprendersi dalle ferite
+       ottenendo 1d6 pf aggiuntivi per Dado Vita speso"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Talentuoso: a scelta 2 tra le competenze raddoppiano il bonus",
+      "Espressione del guadiano"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Dono del Guardiano: 1d8",
+      "Intrepido: recupera tutti gli utilizzi di Dono del Guardiano con un riposo breve o lungo"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Distrazione: il guardiano puo usare una reazione per tirare un dado Dono da sottrarre al risultato del tiro di un nemico
+      visibile e che puo essere affascinato, dopo aver visto il risultato del nemico ma prima di sapere se si tratta di un successo o fallimento"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Espressione del guardiano"]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Racconti del Bivacco: 1d8"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Dono del Guardiano: 1d10",
+      "Talentuoso: a scelta 2 tra le competenze raddoppiano il bonus"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Espressione del guardiano"]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Racconti del bivacco: 1d10"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Ne stanchezza, Ne infinite miglia di deserto: puo utilizzare i dadi Dono su se stesso"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Espressione del guardiano",
+      "Dono del guardiano: 1d12"]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Racconti del bivacco: 1d12"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Spirito di fuoco: puo rendere il risultato in qualsiasi prova di carisma uguale a 15
+      prima di eventuali modificatori tante volte quante il suo modificatore di Carisma e recuperarli dopo un riposo lungo"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale"]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Una luce quando ogni altra si spegne: quando tira iniziativa e non ha piu dadi Dono ne recupera automaticamente uno"]
+  }],
+  "Consigliere": [{
+    "livello": 3,
+    "privilegi": ["Competenze bonus: ottiene competenza in una singola abilita di Carisma o Saggezza a scelta",
+      "Trattativa: 1 volta ogni riposo breve il guardiano puo effettuare con vantaggio una prova di abilita di Carisma
+      a seconda della situazione (Intimidire, Persuadere, ecc...) su una creatura che rispondera con un tiro salvezza su Saggezza.
+      Se viene chiesto di eseguire un Misfatto o di contravvenire a degli ordini dati la creatura puo effettuare un altro tiro tiri_salvezza
+      Qualsiasi attacco o azione ostile nei confronti della creatura o degli alleati termina la trattativa"]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Valido Consiglio: puo dare un dado Dono a una creatura per effettuare con vantaggio una prova su Carisma
+      seguendo i suoi consigli, oppure con svantaggio se da volutamente consigli sbagliati"]
+  },
+  {
+    "livello": 11,
+    "privilegi": ["Prevenzione: una volta oper riposo lungo il guardiano puo avere un intuizione dopo aver studiato un piano
+      per almeno 30 minuti ma solo con informazioni a cui puo avere accesso"]
+  },
+  {
+    "livello": 15,
+    "privilegi": ["Ambasciata: durante una tregua, una volta per Fase di Avventura il guardiano puo indire o partecipare a un trattato
+      con i nemici e avra vantaggio in qualunue prova caratteristica. Anche le forze del Signore Oscuro sono obbligate a presenziare
+      se convocati. In caso di fallimento dei trattati il guardiano avra comunque guadagnato tempo o scoperto qualche nuova informazione"]
+  }],
+  "Araldo": [{
+    "livello": 3,
+    "privilegi": ["Competenze bonus: armature medie, negli scudi e armi da guerra",
+      "Canzoni dello sterminio: puo spendere un dado Dono per conferire a tutti gli alleati entro 9m 1d4 aggiuntivo
+      al prossimo tiro per colpire. Chi beneficia gia di un dado dono puo utilizzare quello al posto del d4"]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Attacco Extra: puo attaccare due volte anziche una ogni volta che effettua un azione Attacco"]
+  },
+  {
+    "livello": 11,
+    "privilegi": ["Risolutezza Spezzata: ogni riposo breve il guardiano puo suscitare paura in un nemico entro 9m
+      effettuando una prova Intimidire con CD 15. il nemico effettua un tiro salvezza su Saggezza con Cd uguale al risultato precedente"]
+  },
+  {
+    "livello": 15,
+    "privilegi": ["Una fine degna di canzoni: un ogni riposo lungo in un rifugio. il guardiano puo ispirare ogni
+      alleato entro 9m al costo di un azione concedento +2 a tutti i tiri per colpire, immunita agli spaventi e pf temporanei
+      pari al livello del guardiano. Dura un numero di round pari al modificatore Carisma +1 e quando terminano gli effetti
+      i pf temporanei svaniscono oltre a ottenere un livello indebolimento"]
+  }],
+  "Sorvegliante": [{
+    "livello": 3,
+    "privilegi": ["Protettore: puo usare una reazione per imporre svantaggio a una creatura entro 1.5m da lui che attacca un alleato"]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Guardia interminabile: tiro salvezza su destrezza con CD pari al tiro del nemico per frapporsi tra il nemico
+      e un alleato che si vuole proteggere. Successo il colpo viene reindirizzato al guardiano. se la persona protetta aveva un
+      dado Dono il guardiano puo usarlo per aumentare la propria CA contro il colpo che intercetta"]
+  },
+  {
+    "livello": 11,
+    "privilegi": ["Una creatura di pietra e acciaio: ottiene pf temporanei permanenti pari a 12 +modificatore
+      Costituzione che si rigenerano ogni riposo lungo"]
+  },
+  {
+    "livello": 15,
+    "privilegi": ["Guardia inflessibile: ogni riposo breve o lungo il guardiano puo far mancare automaticamente ogni attacco di tutte le
+      creature entro 3 metri da lui i cui dadi vita totali siano pari o inferiori al suo numero di dadi vita"]
+  }]
+}

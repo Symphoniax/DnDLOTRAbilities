@@ -1,0 +1,128 @@
+{
+  "CacciatoreTesori": {
+    "descrizione": "Il cacciatore di tesori cerca i cimeli e tesori perduti nelle caverne, un esploratore o battipista o ancora una spia o scassinatore addestrato",
+    "dadi_vita": "1d8",
+    "competenze": {
+      "armi": "armi semplici, spada corta, spada larga",
+      "armature": "leggere",
+      "strumenti": "arnesi da scasso",
+      "tiri_salvezza": "Destrezza, Intelligenza",
+      "abilita": "4 a scelta: Acrobazia, Atletica, Convincere, Furtivita, Rapidita di mano, Indovinelli, Ingannare, Intimidire, Percezione"
+    },
+    "equipaggiamento": {
+      "povero": "un farsetto di cuoio, una spada corta, un arco corto con faretra e 20 frecce",
+      "frugale": "un farsetto di cuoio, una spada corta, un arco corto con faretra e 20 frecce",
+      "marziale": "un farsetto di cuoio, una spada corta o spada larga, un arco corto con faretra e 20 frecce, due pugnali",
+      "prospero": "un farsetto di cuoio, una spada corta o spada larga, un arco corto con faretra e 20 frecce, due pugnali, 2d6 argento",
+      "ricco": "un farsetto di cuoio, una spada corta o spada larga, un arco corto con faretra e 20 frecce, due pugnali, 5d6 argento"
+    },
+    "vulnerabilita_ombra": "Malattia del Drago",
+    "archetipi": ["Agente", "Scassinatore"],
+    "dettagliato": "CacciatoreTesori.json"
+  },
+  "Guardiano": {
+    "descrizione": "I guardiani scelgono di proteggere tutti coloro che non possono farlo da soli, spesso vivono ai limiti  delle citta e quindi vengono considerati come figure minacciose ed estranee. Alcuni guardiani infiammano gli animi della gente con i loro racconti mentre altri si dedicano a consigliare re o figure importanti",
+    "dadi_vita": "1d8",
+    "competenze": {
+      "armi": "semplici, spade larghe, spade lunghe, spade corte",
+      "armature": "leggere, scudo",
+      "strumenti": null,
+      "tiri_salvezza": "Destrezza, Carisma",
+      "abilita": "Tradizioni, 2 a scelta tra tutte"
+    },
+    "equipaggiamento": {
+      "povero": "qualsiasi arma semplice, un arco corto con faretra e 20 frecce, un farsetto di cuoio",
+      "frugale": "qualsiasi arma semplice, un arco corto con faretra e 20 frecce, un farsetto di cuoio",
+      "marziale": "una spada larga, lunga o corta, un arco corto o grande con faretra e 20 frecce, un corsaletto di cuoio, uno scudo",
+      "prospero": "una spada larga, lunga o corta, un arco corto o grande con faretra e 20 frecce, un corsaletto di cuoio, uno scudo",
+      "ricco": "una spada larga, lunga o corta, un arco corto o grande con faretra e 20 frecce, un corsaletto di cuoio, uno scudo o uno scudo grande"
+    },
+    "vulnerabilita_ombra": "Brama di Potere",
+    "archetipi": ["Consigliere", "Araldo", "Sorvegliante"],
+    "dettagliato": "Guardiano.json"
+  },
+  "Guerriero": {
+    "descrizione": "I guerrieri sono esperti combattenti, istruiti e capaci di utilizzare molte armi e armature, spesso militari addestrati",
+    "dadi_vita": "1d10",
+    "competenze": {
+      "armi": "semplici, da guerra",
+      "armature": "tutte le armature e scudi",
+      "strumenti": null,
+      "tiri_salvezza": "Forza, Costituzione",
+      "abilita": "2 a scelta tra Acrobazia, Addestrare Animali, Atletica, Storia, Intuizione, Intimidire, Percezione, Sopravvivenza, Tradizioni"
+    },
+    "equipaggiamento": {
+      "povero": "un corsaletto di cuoio, un arma da guerra e uno scudo",
+      "frugale": "un corsaletto di cuoio, un arma da guerra e uno scudo",
+      "marziale": "un corsaletto di maglia di ferro, un arma da guerra, uno scudo, un arco corto con faretra e 20 frecce",
+      "prospero": "cotta di maglia ad anelli, un arma da guerra, uno scudo, un arco corto o arco lungo con faretra e 20 frecce",
+      "ricco": "cotta di maglia pesante, un arma da guerra, uno scudo o scudo grande, un arco corto o arco lungo con faretra e 20 frecce"
+    },
+    "vulnerabilita_ombra": "Brama di Potere",
+    "archetipi": ["Campione", "Maestro Armi"],
+    "dettagliato": "Guerriero.json"
+  },
+  "Sterminatore": {
+    "descrizione": "Un combattente dedito alla vendetta o di un popolo guerriero e particolarmente bellicoso",
+    "dadi_vita": "1d12",
+    "competenze": {
+      "armi": "semplici, da guerra",
+      "armature": "leggere, medie, scudi",
+      "strumenti": null,
+      "tiri_salvezza": "Forza, Costituzione",
+      "abilita": "2 a scelta tra Addestrare Animali, Atletica, Intimidire, Natura, Percezione, Sopravvivenza"
+    },
+    "equipaggiamento": {
+      "povero": "qualsiasi arma da guerra e armatura di pelle, una lancia, due asce a una mano",
+      "frugale": "ascia grande e armatura di pelle",
+      "marziale": "qualsiasi arma da guerra, un corsaletto di maglia di ferro, una lancia, due asce a una mano",
+      "prospero": "qualsiasi arma da guerra, un corsaletto di maglia di ferro, una lancia, due asce a una mano",
+      "ricco": "qualsiasi arma da guerra, un corsaletto di maglia di ferro, una lancia, due asce a una mano"
+    },
+    "vulnerabilita_ombra": "Maledizione della Vendetta",
+    "archetipi": ["Cavaliere", "Abbattinemici"],
+    "dettagliato": "Sterminatore.json"
+  },
+  "Studioso": {
+    "descrizione": "Gli studiosi pensano che la conoscenza renda il mondo meno minaccioso, conoscere le tradizioni dei popoli puo rendere piu facile ottenere favori o amici, altri sono guaritori esperti delle piante curative",
+    "dadi_vita": "1d8",
+    "competenze": {
+      "armi": "semplici",
+      "armature": "leggere",
+      "strumenti": "kit erborista, strumenti da artigiano o una pipa",
+      "tiri_salvezza": "Intelligenza, Saggezza",
+      "abilita": "Medicina, Sapienza e 1 a scelta tra Indovinelli, Indagare, Natura, Percezione, Perspicacia, Sopravvivenza, Storia e Tradizioni"
+    },
+    "equipaggiamento": {
+      "povero": "arma semplice, farsetto di cuoio",
+      "frugale": "arma semplice, farsetto di cuoio",
+      "marziale": "arma semplice, farsetto di cuoio",
+      "prospero": "arma semplice, farsetto di cuoio, inchiostro e pergamena",
+      "ricco": "arma semplice, farsetto di cuoio, inchiostro e pergamena"
+    },
+    "vulnerabilita_ombra": "Brama di Segreti",
+    "archetipi": ["Maestro Guaritore", "Maestro Studioso"],
+    "dettagliato": "Studioso.json"
+  },
+  "Viandante": {
+    "descrizione": "I viandianti vagano per la terra di mezzo svelandone i segreti, alcuni sono mercanti o cacciatori altri sono esuli dopo essere stati cacciati da Orchi o draghi",
+    "dadi_vita": "1d10",
+    "competenze": {
+      "armi": "semplici, da guerra",
+      "armature": "leggere, medie e scudi",
+      "strumenti": null,
+      "tiri_salvezza": "Forza, Costituzione",
+      "abilita": "Sopravvivenza e 3 a scelta tra Addestrare Animali, Atletica, Intuizione, Indagare, Natura, Percezione, Furtivita, Tradizioni"
+    },
+    "equipaggiamento": {
+      "povero": "un corsetto di cuoio, un arma semplice, un arco corto o grande con faretra e 20 frecce",
+      "frugale": "armatura di pelle, un arma da guerra, uno scudo, un arco corto o grande con faretra e 20 frecce",
+      "marziale": "armatura di pelle, un arma da guerra, uno scudo, un arco corto o grande con faretra e 20 frecce",
+      "prospero": "un corsaletto di maglia di ferro, un arma da guerra, uno scudo, un arco corto o grande con faretra e 20 frecce",
+      "ricco": "un corsaletto di maglia di ferro, un arma da guerra, uno scudo, un arco corto o grande con faretra e 20 frecce"
+    },
+    "vulnerabilita_ombra": "Pazzia del Vagabondo",
+    "archetipi": ["Cacciatore di bestie", "Cacciatore di Ombre"],
+    "dettagliato": "Viandante.json"
+  }
+}

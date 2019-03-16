@@ -1,0 +1,156 @@
+{
+  "base": [{
+    "competenza": 2,
+    "privilegi": ["Furia combattiva: 2, +2. Come azione bonus si può entrare in furia che dura 1 minuto e termina anticipatamente se lo Sterminatore
+        cade privo di sensi, termina il turno senza attaccare o venire attaccato o come azione bonus. Recupera il numero di furie dopo un riposo lungo.
+        In furia: vantaggio prove di Forza e tiri salvezza su Forza. Quando infligge danni con un arma da mischia Forza aggiunge al danno il bonus
+        della furia. Resistenza contro i danni contundenti, perforanti e taglienti",
+      "Difesa senza armatura: se non indossa un armatura la CA diventa uguale a 10 + modificatore Destrezza + modificatore Costituzione.
+        Usare uno scudo normale non annulla questo bonus"]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Attacco irruento: il primo attacco del turno puo essere un attacco irruanto disponendo di vantaggio per colpire su Forza durante
+        il turno ma offrendo vantaggio ai nemici per colpirlo nello stesso turno",
+        "Sensi vigili: vantaggio in Percezione per individuare nemici o imboscate.",
+      "Furia combattiva: 2, +2."]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Cammino dello sterminatore",
+    "Furia combattiva: 3, +2."]
+  },
+  {
+    "competenza": 2,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale",
+      "Furia combattiva: 3, +2."]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Attacco extra: puo attaccare due volte quando esegue un azione di Attacco anziche una",
+      "Movimento veloce: la velocita aumenta di 3m se non indossa un armatura pesante",
+      "Furia combattiva: 3, +2."]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Cammino dello sterminatore",
+      "Furia combattiva: 4, +2."]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Foschia nera: vantaggio nei tiri iniziativo e non perde il turno se sorpreso solo se attiva subito la furia",
+      "Furia combattiva: 4, +2."]
+  },
+  {
+    "competenza": 3,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale",
+      "Furia combattiva: 4, +2."]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Ferita mortale: 1 dado. quando determina i danni extra di un colpo critico tira un dado della sua arma in aggiunta",
+      "Furia combattiva: 4, +3."]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Cammino dello sterminatore",
+      "Furia combattiva: 4, +3."]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Trafitto da molte frecce: se scende a o pf quando in furia tira salvezza su Costituzione con CD 10.
+        Se passa rimane a 1 pf. La CD aumenta di 5 ogni volta se non effettua un riposo breve o lungo",
+      "Furia combattiva: 4, +3."]
+  },
+  {
+    "competenza": 4,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale",
+      "Furia combattiva: 5, +3."]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Ferita mortale: 2 dadi.",
+      "Furia combattiva: 5, +3."]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["cammino dello sterminatore",
+      "Furia combattiva: 5, +3."]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Ivi combatte molti nemici: la furia termina solo se lo Sterminatore cade privo di sensi o usa un azione bonus per terminarla",
+      "Furia combattiva: 5, +3."]
+  },
+  {
+    "competenza": 5,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale",
+      "Furia combattiva: 5, +4."]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Ferita mortale: 3 dadi.",
+      "Furia combattiva: 6, +4."]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Potenza indomabile: se il totale di una prova di Forza risulta inferiore al punteggio di Forza puo usare quel punteggio",
+      "Furia combattiva: 6, +4."]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Incremento caratteristica: +2 punti a una caratteristica o +1 punto a 2 caratteristica o una virtu aperta o culturale",
+      "Furia combattiva: 6, +4."]
+  },
+  {
+    "competenza": 6,
+    "privilegi": ["Piu forte di qualunque mano: i punteggi di Forza e Costituzione aumentano di 4. il massimo raggiungibile diventa 24",
+      "Furia combattiva: illimitate, +4."]
+  }],
+  "Cavaliere": [{
+    "livello": 3,
+    "privilegi": ["Combattere in sella: in sella a una creatura infligge 1d4 danni extra quando colpisce in mischia un avversario
+      Medio o piccolo che non sia in sella. Se scatta puo effettuare un attacco come azione bonus"]
+  },
+  {
+    "livello": 6,
+    "privilegi": ["Lancia poderosa: quando scaglia una lancia dispone di vantaggio e infligge automaticamente il danno massimo.
+      Se la lancia da sella non dispone di svantaggio sulla gittata lunga"]
+  },
+  {
+    "livello": 10,
+    "privilegi": ["Presenza intimidatoria: se in sella a una cavalcatura puo usare un azione per spaventare una creatura che sia in grado di vederlo.
+      La creatura deve superare un tiro salvezza su Saggezza con CD 8 + bonus competenza Sterminatore + modificatore carisma Sterminatore o rimanere
+      spaventata fino alla fine del turno successivo. Se esegue lo scatto puo usare presenza intimidatoria come azione bonus."]
+  },
+  {
+    "livello": 14,
+    "privilegi": ["I corni suonano con forza: come azione bonus puo soffiare nel suo corno o lanciare un grido di battaglia. Un numero di
+      alleati pari a 1 + modificatore carisma possono usare attacco irruento e aggiungere ai danii il bonus della furia dello Sterminatore"]
+  }],
+  "Abbattinemici": [{
+    "livello": 3,
+    "privilegi": ["Furia corazzata: ottiene competenza nelle armature pesanti e puo usare la furia anche con un armatura pesante"]
+  },
+  {
+    "livello": 6,
+    "privilegi": ["Cinto e protetto: puo aggiungere il bonus destrezza per intero alla CA e non ha più svantaggio nelle prove furtivita"]
+  },
+  {
+    "livello": 10,
+    "privilegi": ["Man di martello: le sue mani sono considerate armi da guerra in mischia. Quando va in furia infliggono 1d4 danni contundenti
+      e ottengono un critico con risultato naturale 19-20. Se combatte con un arma da mischia diversa dalle mani riceve come azione bonus
+      un attacco senza armi aggiuntivo se manca il bersaglio"]
+  },
+  {
+    "livello": 14,
+    "privilegi": ["Lance spezzate e scudi frantumati: una volta per riposo lungo puo scegliere una delle due opzioni;
+      1) colpo critico automatico con arma da mischia
+      diversa dai pugni. Dopo i danni la sua arma si frantuma. Le creature immuni ai colpi critici subiscono tutti i danni.
+      2) distrugge automaticamente lo scudo avversario. In caso di scudi indistruttibili come quelli nanici subisce il danno normalmente"]
+  },
+  {
+    "livello": 17,
+    "privilegi": ["Lance spezzate e scudi frantumanti: due volte per riposo lungo"]
+  }]
+}
