@@ -7,3 +7,7 @@ TODO
 * Implementare Lista classi
 * Terminare Lista culture
 * Formattare decentamentte le info
+
+Creator
+-------
+Symphoniax
